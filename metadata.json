@@ -1,0 +1,5 @@
+{
+  "name": "Trip Brief Generator",
+  "description": "An AI-powered app for travel agencies to transform raw supplier data (PDFs, emails, notes) into polished, branded itineraries instantly.",
+  "requestFramePermissions": []
+}
